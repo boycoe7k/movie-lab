@@ -1,0 +1,406 @@
+[
+    {
+        "id": "GlobConfigScene",
+        "newUserMaskTime": 1,
+        "nativeCacheUpperLimit": 2,
+        "isOpenAd": true,
+        "adLinkOff": false,
+        "lowMemoryValue": 1,
+        "videoCd": 15,
+        "interstitialCd": 5,
+        "showAdTag": "false",
+        "urlParameterReplace": "[{\"key\":\"did\",\"value\":\"{gaid}\",\"type\":\"GAID\"},{\"key\":\"cdid\",\"value\":\"{custom_user_id}\",\"type\":\"CUSTOM_USER_ID\"}]",
+        "psLinkInterval": 60
+    },
+    {
+        "id": "TrendingScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiOff": false,
+        "hiId": "250109SY5SDdS3",
+        "x": 3,
+        "y": 5
+    },
+    {
+        "id": "MediaPlayerMidDescScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "250109tvWZ8AtE",
+        "hiOff": false,
+        "refreshTime": 30
+    },
+    {
+        "id": "VerticalPauseScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "250109d2xuD4gP",
+        "hiOff": false
+    },
+    {
+        "id": "LandscapePauseScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "2501094WGAGr3R",
+        "hiOff": false
+    },
+    {
+        "id": "LandscapeStartScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "25010994hB24Au",
+        "hiOff": false,
+        "videoStartAdCountdownTime": 15,
+        "adCloseDelaySeconds": 1
+    },
+    {
+        "id": "LandscapeEndScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "250109cPLNfNAa",
+        "hiOff": false,
+        "videoEndAdEndTimeMillis": 3,
+        "videoEndAdCountdownTime": 15,
+        "adCloseDelaySeconds": 1,
+        "x": 90,
+        "y": 8,
+        "z": 2
+    },
+    {
+        "id": "VideoForYouListScene",
+        "sceneOff": true,
+        "nonOff": false,
+        "hiId": "230710MDmASON7",
+        "hiOff": false,
+        "x": 3,
+        "y": 5
+    },
+    {
+        "id": "ShortTvListScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "230710MDmASON7",
+        "hiOff": false,
+        "x": 3,
+        "y": 5
+    },
+    {
+        "id": "DownloadPopupScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "250109nNyc5AcV",
+        "hiOff": false
+    },
+    {
+        "id": "PsLinkListIconLinearScene",
+        "sceneOff": false,
+        "nonOff": true,
+        "hiId": "231030gpDKPG9x",
+        "hiOff": false
+    },
+    {
+        "id": "PsLinkListIconGridScene",
+        "sceneOff": false,
+        "nonOff": true,
+        "hiId": "231030gpDKPG9x",
+        "hiOff": false
+    },
+    {
+        "id": "AdInterceptDialogNativeScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "230710MDmASON7",
+        "hiOff": true
+    },
+    {
+        "id": "AdInterceptDialogVideoScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "2307100hX4S90i",
+        "hiOff": true
+    },
+    {
+        "id": "AdInterceptDialogInterstitialScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "230710u4eVnoGA",
+        "hiOff": true
+    },
+    {
+        "id": "PostDetailRecommendScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "230710MDmASON7",
+        "hiOff": false,
+        "x": 2,
+        "y": 5
+    },
+    {
+        "id": "VerticalMediaPlayerRecommendScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "230710MDmASON7",
+        "hiOff": false,
+        "x": 2,
+        "y": 5
+    },
+    {
+        "id": "SubjectDetailRecommendScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "230710MDmASON7",
+        "hiOff": false,
+        "x": 1,
+        "y": 5
+    },
+    {
+        "id": "HotStartScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "230710u4eVnoGA",
+        "hiOff": false,
+        "hotSplashInterval": 1
+    },
+    {
+        "id": "DownloadListEmptyScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "230710MDmASON7",
+        "hiOff": false,
+        "downloadAccumulativeShowTime": 60
+    },
+    {
+        "id": "TrendingBannerScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "230728mMTl5iY9",
+        "x": 1,
+        "hiOff": false
+    },
+    {
+        "id": "ColdStartScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "230403wvYDLZwy",
+        "hiOff": false,
+        "countDown": 5
+    },
+    {
+        "id": "PlayListScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiOff": false,
+        "hiId": "230710MDmASON7",
+        "x": 2,
+        "y": 3
+    },
+    {
+        "id": "DownloadListScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "250109XjsgiLXW",
+        "refreshTime": "60",
+        "hiOff": false
+    },
+    {
+        "id": "DownloadTvListScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "250109IKuoZ1Eu",
+        "x": 2,
+        "hiOff": false
+    },
+    {
+        "id": "ShortTvVideoScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "2307100hX4S90i",
+        "hiOff": false
+    },
+    {
+        "id": "ShortTvInterstitialScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "230710u4eVnoGA",
+        "hiOff": false
+    },
+    {
+        "id": "LocalVideoBackInterstitialScene",
+        "sceneOff": true,
+        "nonOff": false,
+        "hiId": "230531Mm9aZoUE",
+        "hiOff": false
+    },
+    {
+        "id": "DownloadInterceptIconAdScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "2406129eKgXYVc",
+        "hiOff": false
+    },
+    {
+        "id": "LocalVideoBackInterstitialV2Scene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "230531Mm9aZoUE",
+        "hiOff": false,
+        "interval": 1
+    },
+    {
+        "id": "Home1MovieScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "240705A64TuA9C",
+        "hiOff": false,
+        "x": 3,
+        "y": 5
+    },
+    {
+        "id": "Home1TvSeriesScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "240705A64TuA9C",
+        "hiOff": false,
+        "x": 3,
+        "y": 5
+    },
+    {
+        "id": "Home1MusicScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "240705A64TuA9C",
+        "hiOff": false,
+        "x": 3,
+        "y": 5
+    },
+    {
+        "id": "Home1ShortTvScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "240705A64TuA9C",
+        "hiOff": false,
+        "x": 3,
+        "y": 5
+    },
+    {
+        "id": "Home1AnimationScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "240705A64TuA9C",
+        "hiOff": false,
+        "x": 3,
+        "y": 5
+    },
+    {
+        "id": "Home1EducationScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "240705A64TuA9C",
+        "hiOff": false,
+        "x": 3,
+        "y": 5
+    },
+    {
+        "id": "Home2MovieScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "240705A64TuA9C",
+        "hiOff": false,
+        "x": 3,
+        "y": 5
+    },
+    {
+        "id": "Home2TvSeriesScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "240705A64TuA9C",
+        "hiOff": false,
+        "x": 3,
+        "y": 5
+    },
+    {
+        "id": "Home2AnimationScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "240705A64TuA9C",
+        "hiOff": false,
+        "x": 3,
+        "y": 5
+    },
+    {
+        "id": "ALLHistoricalPlayRecordScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "240705A64TuA9C",
+        "hiOff": false,
+        "x": 3,
+        "y": 5
+    },
+    {
+        "id": "ProfileDetailBottomScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "240705A64TuA9C",
+        "hiOff": false,
+        "refreshTime": 30
+    },
+    {
+        "id": "ShortTvDiscoverMostTrendingScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "240705A64TuA9C",
+        "hiOff": false,
+        "x": 3,
+        "y": 5
+    },
+    {
+        "id": "MemberPageVideoTaskScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "240730YDEdVVkw",
+        "hiOff": false
+    },
+    {
+        "id": "HomeLeftTopBrandNonstandardScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "",
+        "hiOff": false
+    },
+    {
+        "id": "HomeRIGHTTopGameNonstandardScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "",
+        "hiOff": false
+    },
+    {
+        "id": "StreamingMediaContentScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "240705A64TuA9C",
+        "hiOff": false,
+        "refreshTime": 60
+    },
+    {
+        "id": "DownloadCenterAppDistributionScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "231030gpDKPG9x",
+        "hiOff": false,
+        "pullModel": "1",
+        "x": "10",
+        "y": "20"
+    },
+    {
+        "id": "DownloadMovieAppDistributionScene",
+        "sceneOff": false,
+        "nonOff": false,
+        "hiId": "231030gpDKPG9x",
+        "hiOff": false,
+        "pullModel": "1",
+        "x": "10",
+        "y": "20",
+        "priority": "ps",
+        "bindingTime": "2"
+    }
+]

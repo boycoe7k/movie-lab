@@ -1,0 +1,135 @@
+{
+  "bottomTabs": [
+    {
+      "name": "Home",
+      "btTabCode": "HOME",
+      "btTabType": "BT_HOME",
+      "icon": {
+        "selectIcon": "https://pacdn.aoneroom.com/image/2025/01/15/637d238a7a6f3567f942698fb9852f09.png",
+        "defaultIcon": "https://pacdn.aoneroom.com/image/2025/01/15/e54a6aaf260aaee69ee885488f8c578b.png"
+      },
+      "operateTabId": 0,
+      "statusWhite": true,
+      "subTabs": [
+        {
+          "tabId": 1,
+          "name": "Trending",
+          "type": "TrenTab",
+          "url": "",
+          "tabCode": "Trending",
+          "nameImage": null
+        },
+        {
+          "tabId": 5,
+          "name": "TV/Series",
+          "type": "OperateTab",
+          "url": "",
+          "tabCode": "TVshow",
+          "nameImage": null
+        },
+        {
+          "tabId": 2,
+          "name": "Movie",
+          "type": "OperateTab",
+          "url": "",
+          "tabCode": "Movie",
+          "nameImage": null
+        },
+        {
+          "tabId": 23,
+          "name": "Kids",
+          "type": "SubjTab",
+          "url": "",
+          "tabCode": "Kids",
+          "nameImage": null
+        },
+        {
+          "tabId": 13,
+          "name": "ShortTV",
+          "type": "ShortTvTab",
+          "url": "",
+          "tabCode": "ShortTV_Discover",
+          "nameImage": null
+        },
+        {
+          "tabId": 8,
+          "name": "Animation",
+          "type": "OperateTab",
+          "url": "",
+          "tabCode": "Animation",
+          "nameImage": null
+        },
+        {
+          "tabId": 3,
+          "name": "Education",
+          "type": "OperateTab",
+          "url": "",
+          "tabCode": "Education",
+          "nameImage": null
+        },
+        {
+          "tabId": 11,
+          "name": "Game",
+          "type": "SubjTab",
+          "url": "",
+          "tabCode": "Game",
+          "nameImage": null
+        }
+      ],
+      "url": ""
+    },
+    {
+      "name": "Music",
+      "btTabCode": "MUSIC",
+      "btTabType": "BT_OPERATE",
+      "icon": {
+        "selectIcon": "https://pacdn.aoneroom.com/image/2025/01/15/b821c41d4cf436f23e63958105663206.png",
+        "defaultIcon": "https://pacdn.aoneroom.com/image/2025/01/15/583abc71fa4a99303d3b4cb9f24f0fac.png"
+      },
+      "operateTabId": 12,
+      "statusWhite": true,
+      "subTabs": [],
+      "url": ""
+    },
+    {
+      "name": "Premium",
+      "btTabCode": "PREMIUM",
+      "btTabType": "BT_PREMIUM",
+      "icon": {
+        "selectIcon": "https://pacdn.aoneroom.com/image/2025/01/15/993d5f7ba5ecd1a1e0eb751d6f023c87.png",
+        "defaultIcon": "https://pacdn.aoneroom.com/image/2025/01/15/eaba2fb92de133d710b1f048106af618.png"
+      },
+      "operateTabId": 0,
+      "statusWhite": true,
+      "subTabs": [],
+      "url": ""
+    },
+    {
+      "name": "Downloads",
+      "btTabCode": "DOWNLOADS",
+      "btTabType": "BT_DOWNLOADS",
+      "icon": {
+        "selectIcon": "https://pacdn.aoneroom.com/image/2025/01/15/791443434305bb67b93b8f2c3bb0c64f.png",
+        "defaultIcon": "https://pacdn.aoneroom.com/image/2025/01/15/c5c61098df95a301783abe9fefecd41c.png"
+      },
+      "operateTabId": 0,
+      "statusWhite": false,
+      "subTabs": [],
+      "url": ""
+    },
+    {
+      "name": "Me",
+      "btTabCode": "ME",
+      "btTabType": "BT_ME",
+      "icon": {
+        "selectIcon": "https://pacdn.aoneroom.com/image/2025/01/15/47953996726a031df9c04979f95c7951.png",
+        "defaultIcon": "https://pacdn.aoneroom.com/image/2025/01/15/9284db7b08515b484a756a741c9a8bb3.png"
+      },
+      "operateTabId": 0,
+      "statusWhite": true,
+      "subTabs": [],
+      "url": ""
+    }
+  ],
+  "version": "a14b66"
+}
